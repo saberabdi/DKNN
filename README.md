@@ -1,0 +1,1 @@
+In this project we tried to make a hybrid of understandable machine learning methods (in this instance KNNs) and complex deep learning models (ConvNN) to get a hybrid model that could eventually have a better performance while being more "understandable"
